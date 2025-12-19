@@ -1,0 +1,9 @@
+{
+  "stc_standard": "STC-AS v1.0",
+  "domain": "infrastructure",
+  "primary_tool": "terraform",
+  "companion_repo": "vault-leadership-path",
+  "certification": ["Terraform Associate"],
+  "mgf_ingest": true,
+  "labs_first": true
+}
